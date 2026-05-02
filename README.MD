@@ -1,11 +1,11 @@
-# Lua Encryption
+# Pure Encrypt
 
 ## How to install: 
 Clone or download the repository and place the Lua-Encryption in your project folder.
 
 include this at the top of your file: 
 ```
-local crypto = require("Lua-Encryption")
+local crypto = require("pure-encrypt")
 ``` 
 
 
