@@ -14,7 +14,7 @@ build = {
 
 source = {
     url = "https://github.com/otsuli/pure-encrypt/archive/refs/tags/v1.0.0.zip",
-    tag = "v1.0.0"
+    dir = "pure-encrypt-1.0.0"
 }
 
 description = {
