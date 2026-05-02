@@ -1,5 +1,5 @@
 local string = require("string")
-local utils = require("Lua-Encryption.utils")
+local utils = require("pure-encrypt.utils")
 
 local M = {}
 
