@@ -14,7 +14,7 @@ build = {
 }
 
 source = {
-    url = "https://github.com/otsuli/pure_hash/archive/refs/tags/v1.0.0.zip",
+    url = "https://github.com/otsuli/pure_hash/archive/refs/tags/v1.0.1.zip",
     dir = "pure_hash-1.0.0"
 }
 
