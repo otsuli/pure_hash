@@ -1,5 +1,5 @@
 # Pure Encrypt
-
+PROJECT BROKEN RN
 ## How to install: 
 ### Either run this command with luarocks: 
 ```luarocks install --server=https://luarocks.org/manifests/otsuli pure_hash```
