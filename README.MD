@@ -11,7 +11,7 @@ Clone or download the repository and place the Lua-Encryption in your project fo
 ### And: 
 include this at the top of your file: 
 ```
-local crypto = require("pure-encrypt")
+local crypto = require("pure-hash")
 ``` 
 
 
