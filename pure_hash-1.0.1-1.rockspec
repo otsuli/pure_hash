@@ -1,7 +1,6 @@
 rockspec_format = "3.0"
 package = "pure_hash"
-
-version = "1.0.0-1"
+version = "1.0.1-1"
 build = {
     type = "builtin",
     modules = {
@@ -13,9 +12,11 @@ build = {
     }
 }
 
+
+
 source = {
-    url = "https://github.com/otsuli/pure_hash/archive/refs/tags/v1.0.1.zip",
-    dir = "pure_hash-1.0.0"
+    url = "https://github.com/otsuli/pure_hash/archive/refs/tags/v1.0.1.tar.gz",
+    dir = "pure_hash-1.0.1"
 }
 
 description = {

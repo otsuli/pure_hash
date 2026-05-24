@@ -2,16 +2,16 @@
 PROJECT BROKEN RN
 ## How to install: 
 ### Either run this command with luarocks: 
-```luarocks install --server=https://luarocks.org/manifests/otsuli pure_hash```
+```luarocks install pure_hash```
 
 
 ### Or: 
-Clone or download the repository and place the Lua-Encryption in your project folder.
+Clone or download the repository and place the Lua Hash in your project folder.
 
 ### And: 
 include this at the top of your file: 
 ```
-local crypto = require("pure-hash")
+local crypto = require("pure_hash")
 ``` 
 
 
