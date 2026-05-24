@@ -1,3 +1,6 @@
+local encrypt = require("pure-encrypt")
+print(encrypt)
+
 local hashing = require("pure-encrypt.hashing")
 local salting = require("pure-encrypt.salting")
 local verify = require("pure-encrypt.verify")
@@ -27,5 +30,6 @@ else
     print("Password is incorrect")
     print("Wrong password test passed successfully")
 end
+
 
 
