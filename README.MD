@@ -1,5 +1,4 @@
 # Pure Encrypt
-PROJECT BROKEN RN
 ## How to install: 
 ### Either run this command with luarocks: 
 ```luarocks install pure_hash```
