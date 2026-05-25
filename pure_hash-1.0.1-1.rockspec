@@ -7,7 +7,7 @@ build = {
         ["pure_hash.hashing"] = "pure_hash/hashing.lua",
         ["pure_hash.init"] = "pure_hash/init.lua",
         ["pure_hash.salting"] = "pure_hash/salting.lua",
-        ["pure_hash.utils"] = "pure_hash/utils.lua",
+        ["pure_hash.utils"] = "pure_hash/utils/utils.lua",
         ["pure_hash.verify"] = "pure_hash/verify.lua",
     }
 }
