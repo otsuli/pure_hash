@@ -1,7 +1,9 @@
 # Pure Encrypt
 ## How to install: 
 ### Either run this command with luarocks: 
-```luarocks install pure_hash```
+```
+luarocks install pure_hash
+```
 
 
 ### Or: 
